@@ -3,6 +3,7 @@ this is my first Git repository.
 <br>
 Author - Miqdad memon
 
+#debugging the errors
 x=int(input("enter your no 1: "))
 y=int(input("enter your no 2: "))
 for i in range(5):
